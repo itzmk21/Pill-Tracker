@@ -1,0 +1,7 @@
+config.py
+.idea
+.vscode
+venv
+__pycache__
+log.txt
+Pill Tracker.exe
